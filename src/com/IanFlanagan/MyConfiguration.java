@@ -8,14 +8,10 @@ package com.IanFlanagan;
 
 public class MyConfiguration {
 
-    /*
-
-    new API key M2VlNTlkYTctZmI4ZC00OTQyLWFkMGMtZjE4ZThhMDc2ZDdhLTRkYWMzNTlhLWU2YzItNDQ3Yy1hMmRhLWFkMDJmZmZhOGRiZg==
-     */
 
     public static final String[] myTests = {"19211","18143"};
     public static final String projectKey = "DEMO";
-    public static final String myAPIKey = "MzVjY2Y1OTItNWZkYy00NDQ0LTllNDEtZmE0ZDYyOThjNWRkLTAzMTk2MWVkLWM1ODEtNGNhNS1iZWFhLTBkNDM1MDU3NDMxYQ==";
+    public static final String myAPIKey = "<key>";
   // public static final String baseURL = "https://api.dev.ttm4j.tricentis.com";
     public static final String baseURL = "https://api.ttm4j.tricentis.com";
 
